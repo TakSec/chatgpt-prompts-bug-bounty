@@ -77,7 +77,7 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 
 ### XSS Payload Deconstruction
 
-> What is this: &lt;insert XXS payloadgt;
+> What is this: &lt;insert XXS payload&gt;
 
 ## XXE
 
