@@ -47,7 +47,12 @@ A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesti
 
 ### Ultimate XSS PoC
 
-> As 1 JS File: Write all of the following to console: all cookies, local storage, DOM contents. Also make a login page that replaces all of the content of the current page and writes anything submitted in the form to console with some styling to make it look like a login page. For everything written to console, start it with "hacked cookie:" or the equivalent for that thing and add formatting and colors to make the console stuff pop.
+> Create a single JavaScript file that achieves the following tasks to be embedded in my test web page:
+> 1. Display all cookies, local storage, and DOM contents in the console.
+> 2. Create a login page that replaces the entire content of the current webpage, and log any submitted form data to the console.
+> 3. Apply styling to the login page to give it a professional appearance.
+> 4. For every item logged to the console, prepend the label “hacked cookie:” or an equivalent description specific to the type of information displayed.
+> 5. Enhance the console output with formatting and colors to make it visually appealing and easy to read.
 
 ### CSRF PoC
 
