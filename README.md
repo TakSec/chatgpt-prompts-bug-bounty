@@ -118,5 +118,14 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 
 ---
 
-> GitHub [@TakSec](https://github.com/TakSec) &nbsp;&middot;&nbsp;
-> Twitter [@TakSec](https://twitter.com/TakSec)
+Medium articles for more ChatGPT Prompts:
+
+https://infosecwriteups.com/chatgpt-for-bug-bounty-faster-hunting-and-reporting-ad8b556f79f3
+
+https://infosecwriteups.com/create-your-own-xss-lab-with-chatgpt-385c4e5e7f35
+
+https://infosecwriteups.com/5-chatgpt-prompts-for-bug-bounty-6b7365d61b58
+
+https://infosecwriteups.com/xxe-with-chatgpt-3e4aa7c4b9c9
+
+https://infosecwriteups.com/the-ultimate-xss-poc-with-chatgpt-4-2be606a13a2e
