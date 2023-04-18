@@ -9,6 +9,10 @@ A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesti
 
 ## Faster Hunting and Reporting
 
+### Write a Bug Bounty Report
+
+> Write a bug bounty report for the following reflected XSS: `https://example.com/q="><img/src=x+onerror=alert()>`. The sections should include: Title, VRT, CVSS w/ explanation, Description, Impact, PoC that includes all steps to reproduce, and recommended Fix.  Use rich text formatting for headings, code, and anything else to make it easy to read.
+
 ### Brainstorm
 
 > As a bug bounty hunter, list ways ChatGPT can save me time for recon, find a good program, learn technical skills, write reports which maximize rewards, understand program terms, create proofs of concept, and anything else that can help.
