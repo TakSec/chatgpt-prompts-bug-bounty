@@ -11,7 +11,7 @@ A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesti
 
 ### Write a Bug Bounty Report
 
-> Write a bug bounty report for the following reflected XSS: `https://example.com/q="><img/src=x+onerror=alert()>`. The sections should include: Title, VRT, CVSS w/ explanation, Description, Impact, PoC that includes all steps to reproduce, and recommended Fix.  Use rich text formatting for headings, code, and anything else to make it easy to read.
+> Write a bug bounty report for the following reflected XSS: <insert PoC>. Include: Title, VRT, CVSS w/ explanation, Description, Impact, PoC that includes all steps to reproduce, and Fix.  Use Markdown.
 
 ### Brainstorm
 
