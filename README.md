@@ -120,6 +120,19 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 
 > Write the HTTP request in the form of Burp Suite Repeater for the HTTP request referenced in the js: &lt;insert js&gt;
 
+### JWT decode, explain, and hack
+
+> For the JWT - Decode the base64, Explain it, and Modify the JWT to generate 3 different versions to test for various vulnerabilities: &lt;insert encoded JWT&gt;
+
+### Potential vulnerabilities in HTTP request
+
+> Analyze this HTTP Request and suggest specific ways to test it for vulnerabilities including a PoC: &lt;insert HTTP Request from Burp&gt;
+
+### Analyze HTTP response headers for things to test
+
+> Analyze the HTTP Response for indications of vulnerabilities and suggest specific ways to test for them including PoCs when it makes sense: &lt;insert HTTP Response from Burp&gt;
+
+
 ---
 
 Medium articles for more ChatGPT Prompts:
