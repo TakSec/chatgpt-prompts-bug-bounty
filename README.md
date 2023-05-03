@@ -132,10 +132,13 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 
 > Analyze the HTTP Response for indications of vulnerabilities and suggest specific ways to test for them including PoCs when it makes sense: &lt;insert HTTP Response from Burp&gt;
 
-### 
+### Burp History Filter Regex
 
 > Write Regex to use in Burp Suite's HTTP History Filter to only show requests with the following url parameter in them: "name"
 
+### Convert CIDR IP Ranges to Regex
+
+> Write a grep command the looks for lines containing IPs within these IP ranges.  the lines may contain other content before and after the IP: &lt;paste CIDR&gt;
 
 ---
 
