@@ -139,6 +139,10 @@ Summarize the exploit for the following bug bounty report in numbered bullets to
 ### Convert CIDR IP Ranges to Regex
 
 > Write a grep command the looks for lines containing IPs within these IP ranges.  the lines may contain other content before and after the IP: &lt;paste CIDR&gt;
+  
+### Recon with Bing AI (creative mode)
+  
+> As an expert bug bounty hunter, list as many domains owned by &lt;company name&gt; as you can
 
 ---
 
