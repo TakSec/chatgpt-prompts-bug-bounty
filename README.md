@@ -49,6 +49,17 @@ A list of ChatGPT Prompts for Web Application Security, Bug Bounty, and Pentesti
 
 > Write javascript that would make the HTTP request: &lt;insert HTTP request&gt;
 
+### XSS Fuzzing
+
+#### Prompt #1:
+> explain this: javascript:alert()
+
+#### Prompt #2:
+> show me alternatives
+
+#### Customize Bypass:
+> list 10 that don't use the word "alert" intact
+
 ### Ultimate XSS PoC
 
 > Create a single JavaScript file that achieves the following tasks to be embedded in my test web page:
